@@ -11,3 +11,12 @@ This repository covers my data science portfolio projects.
 - Complete quantitative analysis performing linear regression to improve profitability of momentum trading algorithm.
 
 Note : in case github render are slow or not rendering at all, it is recommended to open the notebook from nbviewer, or download the HTML version.
+
+## K-means Clustering
+
+### Implementing Clustering Algorithm to Open a New Coffee Shop in Surabaya
+(July 2020)
+
+- [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Surabaya%20Coffee%20Shop%20Clustering) / [Nbviewer](https://github.com/vejryn/data_science_portfolio/blob/master/Surabaya%20Coffee%20Shop%20Clustering/Surabaya_Coffee_Shop_Clustering.ipynb)
+- [Linkedin Blogpost](https://www.linkedin.com/pulse/exploring-data-open-new-coffee-shop-surabaya-vejryn-shaviero/?trackingId=KOvONtflTdGzbgakZlH%2FZQ%3D%3D)
+- Applying K-means Clustering algorithm to help investor determine best location to open a new coffee shop in surabaya.
