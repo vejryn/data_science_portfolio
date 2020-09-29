@@ -6,6 +6,7 @@ This repository covers my data science portfolio projects.
 
 ### Implementing Clustering Algorithm to Open a New Coffee Shop in Surabaya
 ![Clustered Kecamatan](assets/clustering.png)
+
 (July 2020, IBM Data Science Specialization Capstone Project)
 
 - [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Surabaya%20Coffee%20Shop%20Clustering) / [Nbviewer](https://github.com/vejryn/data_science_portfolio/blob/master/Surabaya%20Coffee%20Shop%20Clustering/Surabaya_Coffee_Shop_Clustering.ipynb)
@@ -16,7 +17,8 @@ This repository covers my data science portfolio projects.
 ## Linear Regression
 
 ### Improving Momentum Trading Algorithm
-![Equity Curve (2019)](assets/equity_curve.png)
+![Equity Curve (2019)](assets/equity_curve.png  =395x260)
+
 (Sep 2020, Personal)
 
 - [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Improving%20Momentum%20Trading%20Algorithm) / [Nbviewer](https://nbviewer.jupyter.org/github/vejryn/data_science_portfolio/blob/master/Improving%20Momentum%20Trading%20Algorithm/Improving_Momentum_Trading_Algorithm.ipynb)
