@@ -17,7 +17,7 @@ This repository covers my data science portfolio projects.
 ## Linear Regression
 
 ### Improving Momentum Trading Algorithm
-![Equity Curve (2019)](assets/equity_curve.png | width=395)
+![Equity Curve (2019)](assets/equity_curve.png)
 
 (Sep 2020, Personal)
 
