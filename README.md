@@ -22,6 +22,8 @@ This repository covers my data science portfolio projects.
 (Sep 2020, Personal)
 
 - [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Improving%20Momentum%20Trading%20Algorithm) / [Nbviewer](https://nbviewer.jupyter.org/github/vejryn/data_science_portfolio/blob/master/Improving%20Momentum%20Trading%20Algorithm/Improving_Momentum_Trading_Algorithm.ipynb)
-- Complete quantitative analysis performing linear regression to improve profitability of momentum trading algorithm.
+- Complete quantitative analysis performing linear regression to improve profitability of momentum trading algorithm that generate over 300% returns.
+- Performing algorithm concept explanation and visualization, backtesting, and feature engineering.
+- Performing portfolio benchmarking against popular assets and/or strategy in Indonesia.
 
 Note : in case github render are slow or not rendering at all, it is recommended to open the notebook from nbviewer, or download the HTML version.
