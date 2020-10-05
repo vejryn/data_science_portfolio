@@ -26,4 +26,13 @@ This repository covers my data science portfolio projects.
 - Performing algorithm concept explanation and visualization, backtesting, and feature engineering.
 - Performing portfolio benchmarking against popular assets and/or strategy in Indonesia.
 
-Note : in case github render are slow or not rendering at all, it is recommended to open the notebook from nbviewer, or download the HTML version.
+## Natural Language Processing
+
+### Twitter Sentiment Analysis for Bitcoin : A Face of Complacency
+![Twitter Sentiment Analysis for Bitcoin](assets/bitcoin_sentiment_analysis.png)
+
+(Oct 2020, Personal)
+- [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Twitter%20Sentiment%20Analysis%20for%20Bitcoin) / [Nbviewer](https://nbviewer.jupyter.org/github/vejryn/data_science_portfolio/blob/master/Twitter%20Sentiment%20Analysis%20for%20Bitcoin/Twitter_Sentiment_Analysis_for_Bitcoin.ipynb)
+- Implementing VADER for twitter sentiment analysis for bitcoin.
+
+Note : If some project material such as data are missing, it's possibly because the data exceeded the file size limit or the data cannot be public. In case github render are slow or not rendering at all, it is recommended to open the notebook from nbviewer, or download the HTML version.
