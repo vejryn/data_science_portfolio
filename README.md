@@ -17,7 +17,7 @@ This repository covers my data science portfolio projects.
 ## Linear Regression
 
 ### Improving Momentum Trading Algorithm
-![Equity Curve (2019)](assets/equity_curve.png)
+![Equity Curve (2019)](assets/equity_curve.png) <!-- .element heigh="75%" width="75%" -->
 
 (Sep 2020, Personal)
 
@@ -29,7 +29,7 @@ This repository covers my data science portfolio projects.
 ## Natural Language Processing
 
 ### Twitter Sentiment Analysis for Bitcoin : A Face of Complacency
-![Twitter Sentiment Analysis for Bitcoin](assets/bitcoin_sentiment_analysis.png) <!-- .element heigh="80%" width="80%" -->
+![Twitter Sentiment Analysis for Bitcoin](assets/bitcoin_sentiment_analysis.png) <!-- .element heigh="75%" width="75%" -->
 
 (Oct 2020, Personal)
 - [Github](https://github.com/vejryn/data_science_portfolio/tree/master/Twitter%20Sentiment%20Analysis%20for%20Bitcoin) / [Nbviewer](https://nbviewer.jupyter.org/github/vejryn/data_science_portfolio/blob/master/Twitter%20Sentiment%20Analysis%20for%20Bitcoin/Twitter_Sentiment_Analysis_for_Bitcoin.ipynb)
