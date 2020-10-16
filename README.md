@@ -36,3 +36,10 @@ This repository covers my data science portfolio projects.
 - Implementing VADER for twitter sentiment analysis for bitcoin.
 
 Note : If some project material such as data are missing, it's possibly because the data exceeded the file size limit or the data cannot be public. In case github render are slow or not rendering at all, it is recommended to open the notebook from nbviewer, or download the HTML version.
+
+## Monte Carlo Simulation
+
+### Monte Carlo Simulation for Momentum Algorithm Trades
+
+- [Github](https://github.com/vejryn/data_science_portfolio/blob/master/Improving%20Momentum%20Trading%20Algorithm/Monte_Carlo_Simulation.ipynb) / [Nbviewer](https://nbviewer.jupyter.org/github/vejryn/data_science_portfolio/blob/master/Improving%20Momentum%20Trading%20Algorithm/Monte_Carlo_Simulation.ipynb)
+- Performing Monte Carlo Simulation to gauge risk from simulated equity curve and drawdowns.
